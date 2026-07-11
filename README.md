@@ -38,3 +38,6 @@ This tool is strictly intended for educational and authorized security auditing 
 
 ## 🛡️ License
 This project is open-source and available under the [MIT License](LICENSE).
+
+![Web Directory Buster Preview](preview.png)
+
