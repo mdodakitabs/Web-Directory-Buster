@@ -1,6 +1,6 @@
 # Web Directory Buster (Recon Tool)
 
-![Web Directory Buster Preview] preview.jpg
+![Web Directory Buster Preview](preview.png)
 
 A lightweight, automated web reconnaissance script written in Python. It is designed for penetration testers, bug bounty hunters, and ethical hackers to discover hidden paths, files, and directories on a target web server using a dictionary-based brute-force approach.
 
